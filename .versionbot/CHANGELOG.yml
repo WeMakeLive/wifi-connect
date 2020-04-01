@@ -1,4 +1,16 @@
 - commits:
+    - subject: Replace UI with React and Rendition
+      hash: ae0cff233fe7f57c960289cf84c032a7e1bf4a5b
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Stevche Radevski <stevche@balena.io>
+        signed-off-by: Stevche Radevski <stevche@balena.io>
+      author: Stevche Radevski
+  version: 4.3.0
+  date: 2020-04-01T15:38:29.874Z
+- commits:
     - subject: 'readme: Add balenaOS multicontainer app example.'
       hash: 02f4f8f6817ad659036efeaade87e354efa33fb2
       body: ''
